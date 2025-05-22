@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{127192428E53811B}SW/sw_bestpda/GUI/ImageSets/Tab.edds"
+ Author "desktop-rd0lpaf"
+ ChangeDate -866782538
+ Configurations {
+  PNGResourceClass PC {
+   SourceFile "Tab.png"
+  }
+  PNGResourceClass XBOX_ONE : PC {
+  }
+  PNGResourceClass PS4 : PC {
+  }
+  PNGResourceClass LINUX : PC {
+  }
+ }
+}
